@@ -1,1 +1,5 @@
-<h1>Hello world!</h1>
+<script lang="ts">
+	const name: string = 'Svelte';
+</script>
+
+<h1>Hello, {name}!</h1>
